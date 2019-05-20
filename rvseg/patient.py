@@ -3,7 +3,7 @@
 from __future__ import division, print_function
 
 import os, glob, re
-import dicom
+import pydicom
 import numpy as np
 from PIL import Image, ImageDraw
 
